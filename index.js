@@ -18,25 +18,25 @@ conts fovoriteColor = array ["Yellow", "White", "Purple", "Pink"];
 const favoriteRestoran = array ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"]
 cont educationSet = new Set();
 
-let educationSd ={
+const educationSd ={
 nama : "SD Negeri 01";
 city : Jakarta;
 gradution : 2006;
 }
 
-let educationSMP {
+const educationSMP {
  nama : "SMP 02";
  city : "Jakarta";
  gradution : 2019;
 };
  
- let educationSMA {
+const educationSMA {
  nama : "SMA 03 "
  city : "Tangerang"
  };
 let map =new Map()
 
-map.set =("nama", "Ansus");
+map.set =("nama", "Monica");
 map.set =("age", 17);
 map.set =(educationSMA, "SMA 03")
 map.set =(favoriteColor, "white")

@@ -14,9 +14,9 @@ age : 23,
 emai : "wendy@dingdong.com"
 };
 
-conts fovoriteColor = array ["Yellow", "White", "Purple", "Pink"];
+const fovoriteColor = array ["Yellow", "White", "Purple", "Pink"];
 const favoriteRestoran = array ["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"]
-cont educationSet = new Set();
+const educationSet = new Set();
 
 const educationSd ={
 nama : "SD Negeri 01";
